@@ -1,6 +1,6 @@
 # Study Notes
 
-Just keeping track of my notes for studying.
+Tracking the progress of the things that I want to learn and achieve
 
 ## What am I most interested in right now?
 - Kubernetes and its ecosystem
