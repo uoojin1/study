@@ -1,4 +1,4 @@
-# Study Notes!
+# Study Notes
 
 Just keeping track of my notes for studying.
 
@@ -6,5 +6,4 @@ Just keeping track of my notes for studying.
 - Kubernetes
 - Golang
 - Vim
-
-
+probably in that order
