@@ -10,8 +10,18 @@ Tracking the progress of the things that I want to learn and achieve
     - Tmux
     - CLI tools
 
-## goals I've set for myself
-- [ ] CKA cert (09/24~)
-- [ ] CKAD cert (09/24~)
-- [ ] completely switch over to Vim from VSCode (06/24~)
+## My Goals
+- [ ] Get Kubernetes certs (09/24~)
+    - [ ] CKA cert
+    - [ ] CKAD cert
+- [ ] Improve development workflow
+    - [x] start using tmux
+    - [ ] actually learn bash
+    - [ ] learn (and look for) different linux tools
+- [ ] completely switch over to Vim from VSCode (05/24~)
+    - [ ] IDEfy VIM to fit my workflow
+        - [ ] Be able to run Go unit tests in Vim
+        - [ ] Git workflow should be natural
+    - [x] start using VIM as my main note taking app
+    - [x] getting natural with Vim plugin in VSCode
 
