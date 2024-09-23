@@ -14,7 +14,7 @@ Tracking the progress of the things that I want to learn and achieve
 - [ ] Get Kubernetes certs (09/24~)
     - [ ] CKA cert
     - [ ] CKAD cert
-- [ ] Improve development workflow
+- [ ] Improve development workflow (08/24~)
     - [x] start using tmux
     - [ ] actually learn bash
     - [ ] learn (and look for) different linux tools
