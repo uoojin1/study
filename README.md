@@ -10,7 +10,7 @@ Tracking the progress of the things that I want to learn and achieve
     - Tmux
     - CLI tools
 
-## milestones
+## goals I've set for myself
 - [ ] CKA cert (09/24~)
 - [ ] CKAD cert (09/24~)
 - [ ] completely switch over to Vim from VSCode (06/24~)
